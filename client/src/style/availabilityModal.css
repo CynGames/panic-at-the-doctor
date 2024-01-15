@@ -1,0 +1,56 @@
+.availability-modal .modal-box {
+    background: #ffffff;
+    border-radius: 8px;
+}
+
+.availability-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.availability-row {
+    display: grid;
+    grid-template-columns: min-content auto min-content min-content auto min-content;
+    align-items: center;
+    gap: 8px;
+}
+
+.availability-checkbox {
+}
+
+.availability-day {
+    /*margin: 0 8px;*/
+}
+
+.availability-time {
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    padding: 4px 8px;
+}
+
+.availability-time.disabled {
+    background: #f5f5f5;
+}
+
+.time-separator {
+    text-align: center;
+    margin: 0 4px;
+}
+
+.time-icon {
+    margin: 0 4px;
+    display: flex;
+    align-items: center;
+}
+
+.btn {
+}
+
+.save-btn {
+    background-color: #4caf50;
+}
+
+.close-btn {
+    background-color: #f44336;
+}

@@ -1,0 +1,108 @@
+[2023-12-05T16:25:45.351Z] [INFO] GET /doctor/availability 200 PATIENT - 125ms
+[2023-12-05T16:26:06.457Z] [INFO] GET /users 200 DOCTOR - 2ms
+[2023-12-05T16:31:10.712Z] [INFO] POST /auth/signin 201 NOT SIGNED IN - 129ms
+[2023-12-05T16:31:10.935Z] [INFO] GET /appointments/for-patient 200 PATIENT - 8ms
+[2023-12-05T16:32:03.518Z] [INFO] GET /doctor/available-at 200 PATIENT - 55ms
+[2023-12-05T16:32:13.956Z] [INFO] GET /appointments/for-patient 200 PATIENT - 3ms
+[2023-12-05T16:34:20.649Z] [INFO] GET /appointments/for-patient 200 PATIENT - 4ms
+[2023-12-05T16:35:09.903Z] [INFO] GET /appointments/for-patient 200 PATIENT - 4ms
+[2023-12-05T16:35:28.223Z] [INFO] POST /auth/signin 201 NOT SIGNED IN - 81ms
+[2023-12-05T16:35:29.228Z] [INFO] GET /appointments/for-patient 200 PATIENT - 4ms
+[2023-12-05T16:35:47.817Z] [INFO] GET /appointments/for-patient 200 PATIENT - 6ms
+[2023-12-05T16:35:54.349Z] [INFO] GET /appointments/for-patient 200 PATIENT - 5ms
+[2023-12-05T16:36:03.184Z] [INFO] GET /appointments/for-patient 200 PATIENT - 4ms
+[2023-12-05T16:36:54.560Z] [INFO] GET /appointments/for-patient 200 PATIENT - 4ms
+[2023-12-05T16:39:33.824Z] [INFO] GET /doctors/available-at 200 PATIENT - 48ms
+[2023-12-05T16:40:25.116Z] [INFO] GET /appointments/for-patient 200 PATIENT - 6ms
+[2023-12-05T16:40:40.399Z] [INFO] POST /auth/signin 201 NOT SIGNED IN - 82ms
+[2023-12-05T16:40:40.614Z] [INFO] GET /appointments/for-patient 200 PATIENT - 5ms
+[2023-12-05T16:40:58.575Z] [INFO] POST /auth/signin 201 NOT SIGNED IN - 71ms
+[2023-12-05T16:40:58.814Z] [INFO] GET /appointments/for-patient 200 PATIENT - 3ms
+[2023-12-05T16:42:28.733Z] [INFO] GET /appointments/for-patient 200 PATIENT - 7ms
+[2023-12-05T16:42:41.390Z] [INFO] POST /doctors/available-at 201 PATIENT - 12ms
+[2023-12-05T16:45:12.390Z] [INFO] GET /appointments/for-patient 200 PATIENT - 5ms
+[2023-12-05T16:51:13.075Z] [INFO] POST /auth/signin 201 NOT SIGNED IN - 133ms
+[2023-12-05T16:51:13.293Z] [INFO] GET /appointments/for-patient 200 PATIENT - 4ms
+[2023-12-05T16:51:15.890Z] [INFO] POST /doctors/available-at 201 PATIENT - 7ms
+[2023-12-05T16:51:34.854Z] [INFO] POST /doctors/available-at 201 PATIENT - 11ms
+[2023-12-05T16:56:35.802Z] [INFO] GET /appointments/for-patient 200 PATIENT - 2ms
+[2023-12-05T17:01:24.758Z] [INFO] GET /appointments/for-patient 200 PATIENT - 3ms
+[2023-12-05T17:01:50.364Z] [INFO] POST /auth/signin 201 NOT SIGNED IN - 72ms
+[2023-12-05T17:01:50.598Z] [INFO] GET /appointments/for-patient 200 PATIENT - 4ms
+[2023-12-05T17:02:00.190Z] [INFO] POST /doctors/available-at 201 PATIENT - 6ms
+[2023-12-05T17:02:32.802Z] [INFO] POST /doctors/available-at 201 PATIENT - 5ms
+[2023-12-05T17:03:17.846Z] [INFO] POST /doctors/available-at 201 PATIENT - 7ms
+[2023-12-05T17:03:54.381Z] [INFO] GET /appointments/for-patient 200 PATIENT - 5ms
+[2023-12-05T17:04:39.297Z] [INFO] POST /doctors/available-at 201 PATIENT - 7ms
+[2023-12-05T17:06:46.443Z] [INFO] POST /doctors/available-at 201 PATIENT - 7ms
+[2023-12-05T17:06:53.460Z] [INFO] POST /appointments/book 201 PATIENT - 34ms
+[2023-12-05T17:06:53.470Z] [INFO] GET /appointments/for-patient 200 PATIENT - 3ms
+[2023-12-05T17:09:27.719Z] [INFO] POST /doctors/available-at 201 PATIENT - 5ms
+[2023-12-05T17:09:36.734Z] [INFO] POST /doctors/available-at 201 PATIENT - 7ms
+[2023-12-05T17:09:54.522Z] [INFO] POST /auth/signin 201 NOT SIGNED IN - 69ms
+[2023-12-05T17:09:54.618Z] [INFO] GET /appointments/for-patient 200 PATIENT - 3ms
+[2023-12-05T17:09:57.887Z] [INFO] POST /doctors/available-at 201 PATIENT - 5ms
+[2023-12-05T17:10:04.070Z] [INFO] POST /appointments/book 201 PATIENT - 7ms
+[2023-12-05T17:10:04.081Z] [INFO] GET /appointments/for-patient 200 PATIENT - 3ms
+[2023-12-05T17:10:19.747Z] [INFO] DELETE /appointments/nuke 200 PATIENT - 8ms
+[2023-12-05T17:10:19.756Z] [INFO] GET /appointments/for-patient 200 PATIENT - 2ms
+[2023-12-05T17:10:52.575Z] [INFO] POST /auth/signin 201 NOT SIGNED IN - 69ms
+[2023-12-05T17:10:53.622Z] [INFO] GET /appointments/for-patient 200 PATIENT - 4ms
+[2023-12-05T17:12:40.318Z] [INFO] POST /auth/signin 201 NOT SIGNED IN - 69ms
+[2023-12-05T17:12:41.381Z] [INFO] GET /appointments/for-patient 200 PATIENT - 3ms
+[2023-12-05T17:14:36.720Z] [INFO] POST /auth/signin 201 NOT SIGNED IN - 76ms
+[2023-12-05T17:14:57.580Z] [INFO] GET /appointments/for-patient 200 PATIENT - 4ms
+[2023-12-05T17:15:14.964Z] [INFO] POST /auth/signin 201 NOT SIGNED IN - 70ms
+[2023-12-05T17:15:15.059Z] [INFO] GET /appointments/for-patient 200 PATIENT - 4ms
+[2023-12-05T17:15:42.191Z] [INFO] POST /auth/signin 201 NOT SIGNED IN - 69ms
+[2023-12-05T17:15:42.231Z] [INFO] GET /appointments/for-patient 200 PATIENT - 3ms
+[2023-12-05T17:15:50.978Z] [INFO] POST /auth/signin 201 NOT SIGNED IN - 69ms
+[2023-12-05T17:15:51.026Z] [INFO] GET /appointments/for-patient 200 PATIENT - 3ms
+[2023-12-05T17:16:03.019Z] [INFO] POST /auth/signin 201 NOT SIGNED IN - 69ms
+[2023-12-05T17:16:03.113Z] [INFO] GET /appointments/for-patient 200 PATIENT - 4ms
+[2023-12-05T17:16:09.593Z] [INFO] POST /doctors/available-at 201 PATIENT - 3ms
+[2023-12-05T17:16:11.898Z] [INFO] POST /doctors/available-at 201 PATIENT - 3ms
+[2023-12-05T17:16:14.475Z] [INFO] POST /doctors/available-at 201 PATIENT - 4ms
+[2023-12-05T17:16:16.692Z] [INFO] POST /doctors/available-at 201 PATIENT - 3ms
+[2023-12-05T17:16:17.826Z] [INFO] POST /doctors/available-at 201 PATIENT - 3ms
+[2023-12-05T17:16:22.095Z] [INFO] POST /doctors/available-at 201 PATIENT - 3ms
+[2023-12-05T17:16:23.887Z] [INFO] POST /doctors/available-at 201 PATIENT - 5ms
+[2023-12-05T17:17:18.997Z] [INFO] POST /doctors/available-at 201 PATIENT - 4ms
+[2023-12-05T17:17:20.420Z] [INFO] POST /doctors/available-at 201 PATIENT - 3ms
+[2023-12-05T17:17:21.909Z] [INFO] POST /doctors/available-at 201 PATIENT - 6ms
+[2023-12-05T17:17:23.437Z] [INFO] POST /doctors/available-at 201 PATIENT - 7ms
+[2023-12-05T17:17:24.420Z] [INFO] POST /doctors/available-at 201 PATIENT - 2ms
+[2023-12-05T17:17:28.087Z] [INFO] POST /doctors/available-at 201 PATIENT - 4ms
+[2023-12-05T17:17:29.362Z] [INFO] POST /doctors/available-at 201 PATIENT - 4ms
+[2023-12-05T17:17:30.438Z] [INFO] POST /doctors/available-at 201 PATIENT - 5ms
+[2023-12-05T17:17:31.949Z] [INFO] POST /doctors/available-at 201 PATIENT - 6ms
+[2023-12-05T17:17:33.350Z] [INFO] POST /doctors/available-at 201 PATIENT - 6ms
+[2023-12-05T17:28:27.108Z] [INFO] POST /auth/signin 201 NOT SIGNED IN - 69ms
+[2023-12-05T17:28:27.316Z] [INFO] GET /appointments/for-patient 200 PATIENT - 3ms
+[2023-12-05T17:29:34.314Z] [INFO] POST /auth/signin 201 NOT SIGNED IN - 70ms
+[2023-12-05T17:29:34.541Z] [INFO] GET /appointments/for-patient 200 PATIENT - 4ms
+[2023-12-05T17:29:36.968Z] [INFO] POST /doctors/available-at 201 PATIENT - 4ms
+[2023-12-05T17:30:26.584Z] [INFO] POST /auth/signin 201 NOT SIGNED IN - 69ms
+[2023-12-05T17:30:26.653Z] [INFO] GET /appointments/for-patient 200 PATIENT - 24ms
+[2023-12-05T17:30:38.896Z] [INFO] POST /auth/signin 201 NOT SIGNED IN - 69ms
+[2023-12-05T17:30:38.941Z] [INFO] GET /appointments/for-patient 200 DOCTOR - 4ms
+[2023-12-05T17:47:09.647Z] [INFO] POST /doctors/set-availability 201 DOCTOR - 59ms
+[2023-12-05T17:47:35.230Z] [INFO] POST /doctors/set-availability 201 DOCTOR - 57ms
+[2023-12-05T17:51:55.754Z] [INFO] POST /doctors/set-availability 201 DOCTOR - 51ms
+[2023-12-05T17:52:21.809Z] [INFO] POST /auth/signin 201 NOT SIGNED IN - 85ms
+[2023-12-05T17:52:22.067Z] [INFO] GET /appointments/for-patient 200 DOCTOR - 4ms
+[2023-12-05T17:52:35.730Z] [INFO] POST /doctors/set-availability 201 DOCTOR - 8ms
+[2023-12-05T17:53:39.518Z] [INFO] POST /doctors/set-availability 201 DOCTOR - 8ms
+[2023-12-05T17:53:52.286Z] [INFO] POST /doctors/set-availability 201 DOCTOR - 7ms
+[2023-12-05T17:54:07.087Z] [INFO] POST /doctors/set-availability 201 DOCTOR - 7ms
+[2023-12-08T03:36:43.498Z] [INFO] POST /auth/signin 201 NOT SIGNED IN - 138ms
+[2023-12-08T03:40:49.975Z] [INFO] POST /auth/signin 201 NOT SIGNED IN - 126ms
+[2023-12-08T03:45:51.515Z] [INFO] POST /auth/signin 201 NOT SIGNED IN - 72ms
+[2023-12-08T03:45:51.747Z] [INFO] GET /appointments/for-patient 200 DOCTOR - 4ms
+[2023-12-08T03:45:58.451Z] [INFO] POST /auth/signin 201 NOT SIGNED IN - 70ms
+[2023-12-08T03:45:58.486Z] [INFO] GET /appointments/for-patient 200 PATIENT - 3ms
+[2023-12-08T03:46:30.703Z] [INFO] POST /doctors/available-at 201 PATIENT - 62ms
+[2023-12-08T03:46:53.455Z] [INFO] POST /doctors/available-at 201 PATIENT - 43ms
+[2023-12-08T03:46:56.735Z] [INFO] POST /doctors/available-at 201 PATIENT - 8ms
+[2023-12-08T03:47:48.036Z] [INFO] POST /doctors/available-at 201 PATIENT - 43ms
+[2023-12-08T03:47:49.204Z] [INFO] POST /doctors/available-at 201 PATIENT - 8ms

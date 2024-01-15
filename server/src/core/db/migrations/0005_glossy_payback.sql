@@ -1,0 +1,1 @@
+ALTER TABLE "availabilities" RENAME COLUMN "day_of_week" TO "day";

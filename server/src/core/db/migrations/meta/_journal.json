@@ -1,0 +1,48 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1701102031313,
+      "tag": "0000_small_master_chief",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1701107966370,
+      "tag": "0001_dashing_rafael_vega",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1701112033107,
+      "tag": "0002_peaceful_the_anarchist",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1701116751261,
+      "tag": "0003_careful_puma",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1701214619177,
+      "tag": "0004_peaceful_stepford_cuckoos",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1701219725994,
+      "tag": "0005_glossy_payback",
+      "breakpoints": true
+    }
+  ]
+}
